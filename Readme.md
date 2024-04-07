@@ -1,4 +1,4 @@
-A website to engrave yoor choice of design on any given surface!
+A website to engrave your choice of design on any given surface!
 
 ![one](https://github.com/AkshayKulkarni3467/Pixel-Grid/assets/129979542/5778a294-d6cc-40f6-92db-b5d718c3433b)
 
